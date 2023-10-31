@@ -2,7 +2,7 @@
 
 ---
 # Aufgabe
-[![GitHub Classroom Workflow](https://github.com/GittyBitch/test-timetable-css/actions/workflows/classroom.yml/badge.svg)](https://github.com/GittyBitch/test-timetable-css/actions/workflows/classroom.yml) 
+[![GitHub Classroom Workflow](https://github.com/test-23-07/test-timetable-css-test/actions/workflows/classroom.yml/badge.svg)](https://github.com/test-23-07/test-timetable-css-test/actions/workflows/classroom.yml) 
 
 Aufgabe: Styling des timetables
 * 55 Punkte
